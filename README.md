@@ -4,11 +4,8 @@
 
 I am passionate about solving real-world problems using **Machine Learning, AI, and Data-Driven Solutions**.  
 Always learning 📚 | Always building 🛠️ | Always sharing 💡  
-🛠️ Languages and Tools
-Python MySQL Jupyter R VS Code Power BI Tableau
 
-
-## 🔧 Skills & Tools  
+# 🔧 Skills & Tools  
 
 **Programming & Core Concepts**  
 🐍 Python | SQL | OOP | File Handling | Exception Handling  
